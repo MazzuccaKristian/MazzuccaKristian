@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome! </h1>
 <p>
-I'm a Computer Systems and Networks Security student at Università degli Studi di Milano. At the moment I'm enrolled in various courses:
+I'm a Computer Systems and Networks Security student at Università degli Studi di Milano. At the moment I'm enrolled in:
 <ul>
   <li>Computer Networks;</li>
   <li>Databases;</li>
