@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center"> Welcome! </h1>
+<p>
+I'm a Computer Systems and Networks Security student at Università degli Studi di Milano. At the moment I'm enrolled in various courses:
+<ul>
+  <li>Computer Networks;</li>
+  <li>Databases;</li>
+  <li>Discrete Mathematics;</li>
+  <li>Operating Systems.</li>
+</ul>
+In the meantime I'm studying and practicing C++ and OOP programming.
+</p>
 
-<!--
-**MazzuccaKristian/MazzuccaKristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> Main Technologies </h2>
+<p align="center">
+<img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/344/c-programming.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/344/mysql-logo.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/344/git.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/344/html-5--v1.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/344/css3.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/344/javascript--v1.png" width="30" height="30"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> How to reach me </h2>
+<p align="center">
+    <a href="https://it.linkedin.com/in/kristian-mazzucca-10914a214" alt="Linkedin"><img src="https://img.icons8.com/color/344/linkedin.png" width="40"  height="40"/></a>
+    <a href="mailto:mazzuccakristian@gmail.com" alt="Contact me"><img src="https://img.icons8.com/color/344/email.png" width="40"  height="40"/></a>
+</p>
