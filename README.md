@@ -24,6 +24,6 @@ In the meantime I'm studying and practicing C++ and OOP programming.
 
 <h2 align="center"> How to reach me </h2>
 <p align="center">
-    <a href="https://it.linkedin.com/in/kristian-mazzucca-10914a214" alt="Linkedin"><img src="https://img.icons8.com/color/344/linkedin.png" width="40"  height="40"/></a>
+    <a href="https://it.linkedin.com/in/kristian-mazzucca" alt="Linkedin"><img src="https://img.icons8.com/color/344/linkedin.png" width="40"  height="40"/></a>
     <a href="mailto:mazzuccakristian@gmail.com" alt="Contact me"><img src="https://img.icons8.com/color/344/email.png" width="40"  height="40"/></a>
 </p>
